@@ -1,10 +1,5 @@
 # VOIS_AICTE_Oct2025_MajorProject_PanchananSahoo
 
-# Netflix Content Analysis Project
-
-## Project Overview
-Netflix is a leading global streaming platform with a constantly expanding library of original and licensed content. This project analyzes Netflix’s content catalog to identify trends, strengths, gaps, and opportunities. Using data science techniques, it provides actionable insights to guide content strategy, marketing, and recommendation improvements.
-
 # Netflix Dataset Analysis - EDA & Insights
 
 ## 📌 Project Overview
