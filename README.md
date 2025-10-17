@@ -1,4 +1,4 @@
-# VOIS_AICTE_Oct2025_MajorProject_AbhijitAnilTele
+# VOIS_AICTE_Oct2025_MajorProject_PanchananSahoo
 
 # Netflix Content Analysis Project
 
@@ -44,4 +44,4 @@ Netflix is a leading global streaming platform with a constantly expanding libra
 
   
   **Authors**
-Abhijit Anil Tele
+Panchanan Sahoo
